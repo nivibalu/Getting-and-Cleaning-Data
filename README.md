@@ -11,4 +11,4 @@ This is the course project for Getting and Cleaning Data. The R script, run_anal
     -Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity 
      pair.
 
-Additional information about the variables, data, and transformations can be found in the CodeBook.MD file.
+Additional information about the variables, data, and transformations can be found in the CodeBook.md file.
