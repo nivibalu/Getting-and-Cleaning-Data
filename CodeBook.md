@@ -1,6 +1,6 @@
 #Code Book
 
-This code book summarizes the resulting data fields in step5.txt (the output from the R code).
+This code book summarizes the resulting data fields in step5.txt (the output from the R script, run_analysis.R)
 
 Identifiers
 
