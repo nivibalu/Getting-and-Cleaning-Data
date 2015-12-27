@@ -43,4 +43,5 @@ allData$subject <- as.factor(allData$subject)
 allData.melted <- melt(allData, id = c("subject", "activity"))
 allData.mean <- dcast(allData.melted, subject + activity ~ variable, mean)
 
+#export data set
 write.table(allData.mean, "step5.txt", row.names = FALSE, quote = FALSE)
